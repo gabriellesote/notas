@@ -49,7 +49,7 @@ git clone https://github.com/gabriellesote/notas.git
 
 2. Instale as dependências:
 
- - Navegue para a pasta backend
+🔸Navegue para a pasta backend
 
 ```
 cd backend
@@ -62,9 +62,8 @@ cd backend
  npm install cors@2.8.5 dotenv@16.4.5 express@4.19.2  nodemon@3.1.4 postgres@3.4.4
 ```
 
----
 
- - Navegue para a pasta frontend
+🔹 Navegue para a pasta frontend
 
 ```
 cd ../frontend
@@ -118,5 +117,6 @@ ENDPOINT_ID='ep-silent-surf-a5x7kz94'
   ```
    
 5. Acesse a aplicação em  [http://localhost:3000](http://localhost:3000)
+
 
  
