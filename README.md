@@ -1,9 +1,9 @@
 <img src="https://github.com/gabriellesote/notas/blob/main/assets/banners%20(3).png"/>
-<h3> Descrição </h3>
+<h3> 🔹 Descrição </h3>
 
 <p> Esse repositório contém o código desenvolvido para o teste prático como parte do processo seletivo para a <em>dti Digital </em>. O objetivo do teste é implementar uma web aplicação de lembretes, utilizando NodeJS (backend) e ReactJS (frontend). </p>
 
-<h3> Funcionalidades</h3>
+<h3> 📌 Funcionalidades</h3>
 
 <p>
 
@@ -16,7 +16,7 @@
 - **Excluir Lembretes:** Os usuários podem deletar um lembrete existente. Após a exclusão, o lembrete é removido da lista e do banco de dados.
 </p>
 
-<h3>  Tecnologias Utilizadas </h3>
+<h3> 🔧 Tecnologias Utilizadas </h3>
 
 <p>
 
@@ -27,7 +27,7 @@
 
 </p>
 
-<h2> Como Executar o Projeto </h2>
+<h2> ▶️ Como Executar o Projeto </h2>
 
   1.  Clone este repositório:
 
@@ -49,6 +49,8 @@ cd backend
 ```
  npm install cors@2.8.5 dotenv@16.4.5 express@4.19.2  nodemon@3.1.4 postgres@3.4.4
 ```
+
+---
 
  - Navegue para a pasta frontend
 
@@ -75,9 +77,35 @@ yarn add @testing-library/jest-dom@5.17.0 @testing-library/react@13.4.0 @testing
 
 3. Configure as variáveis de ambiente:
 
+   <p>
+     
+     Na pasta <em> backend </em> crie um arquivo  ```.env```  e coloque as seguintes informações: 
+   </p>
+
+
+```
+PGHOST='ep-silent-surf-a5x7kz94.us-east-2.aws.neon.tech'
+PGDATABASE='site'
+PGUSER='site_owner'
+PGPASSWORD='Xr2ejQfN7UuM'
+ENDPOINT_ID='ep-silent-surf-a5x7kz94'
+```
+
+4. Inicie a aplicação:
+
+- Backend:
+  
+  ```
+    npm start
+  ```
    
-
-
+- Frontend:
+  
+  ```
+    yarn start
+  ```
+   
+5. Acesse a aplicação em  [http://localhost:3000](http://localhost:3000)
 
 
 
