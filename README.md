@@ -1,4 +1,16 @@
 <img src="https://github.com/gabriellesote/notas/blob/main/assets/banners%20(3).png"/>
+ <h4 align="center"> <em> Candidata: Gabrielle Soares Teixeira </em></h4>
+
+<div align=center> 
+
+[![Github](https://img.shields.io/badge/Github-pink?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gabriellesote?tab=repositories)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-teixeira-a9624329a/)
+[![Artístico](https://img.shields.io/badge/Artístico-833AB4?style=for-the-badge&logo=instagram)](https://www.instagram.com/ga_baralou/)
+[![pessoal](https://img.shields.io/badge/pessoal-5B51D8?style=for-the-badge&logo=instagram)](https://www.instagram.com/gabi.sote/)
+![gabrielle.sote@gmail.com](https://img.shields.io/badge/gabrielle.sote%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=red)
+</div>
+
+
 <h3> 🔹 Descrição </h3>
 
 <p> Esse repositório contém o código desenvolvido para o teste prático como parte do processo seletivo para a <em>dti Digital </em>. O objetivo do teste é implementar uma web aplicação de lembretes, utilizando NodeJS (backend) e ReactJS (frontend). </p>
@@ -107,5 +119,4 @@ ENDPOINT_ID='ep-silent-surf-a5x7kz94'
    
 5. Acesse a aplicação em  [http://localhost:3000](http://localhost:3000)
 
-
-
+ 
