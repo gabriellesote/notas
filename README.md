@@ -86,23 +86,9 @@ npm install @testing-library/jest-dom@5.17.0 @testing-library/react@13.4.0 @test
 yarn add @testing-library/jest-dom@5.17.0 @testing-library/react@13.4.0 @testing-library/user-event@13.5.0 axios@1.7.4 date-fns@3.6.0 react-dom@18.3.1 react-icons@5.3.0 react-scripts@5.0.1 react-toastify@9.0.8 react@18.3.1 styled-components@6.1.12 web-vitals@2.1.4
 ```
 
-3. Configure as variáveis de ambiente:
-
-   <p>
-     
-     Na pasta <em> backend </em> crie um arquivo  ```.env```  e coloque as seguintes informações: 
-   </p>
 
 
-```
-PGHOST='ep-silent-surf-a5x7kz94.us-east-2.aws.neon.tech'
-PGDATABASE='site'
-PGUSER='site_owner'
-PGPASSWORD='Xr2ejQfN7UuM'
-ENDPOINT_ID='ep-silent-surf-a5x7kz94'
-```
-
-4. Inicie a aplicação:
+3. Inicie a aplicação:
 
 - Backend:
   
