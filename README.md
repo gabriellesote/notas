@@ -13,7 +13,7 @@
 
 <h3> 🔹 Descrição </h3>
 
-<p> Esse repositório contém o código desenvolvido para o teste prático como parte do processo seletivo para a <em>dti Digital </em>. O objetivo do teste é implementar uma web aplicação de lembretes, utilizando NodeJS (backend) e ReactJS (frontend). </p>
+<p> Esse repositório contém o código desenvolvido para o teste prático como parte do processo seletivo para a <em>dti Digital </em> de 2024. O objetivo do teste é implementar uma web aplicação de lembretes, utilizando NodeJS (backend) e ReactJS (frontend). </p>
 
 <h3> 📌 Funcionalidades</h3>
 
